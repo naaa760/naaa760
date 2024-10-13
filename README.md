@@ -14,37 +14,21 @@
 
 PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
 
+A passionate developer from India
 
-<!---```
-{
-  "firstName": "Neha",
-  "lastName": "Prasad",
-  "age": 21,
-  "profession": "Software Engineer",
+   
 
-}
-```-->
-``` yaml
-name: "Neha Prasad"
-location: "India "
-education:
-  university: "University of the People, California"
-  CGPA: "3.4/4.0"
+    🌱 I’m currently learning MERN
 
-past_experiences:
-  - role: "SWE Intern", "HeadStarter AI"
-  - role: "Frontend Intern", "GSSoC"
- 
-currently_learning:
-  - "MERN"
-  - "Web3"
-interested_in:
-  - "Books", "Financial Markets 📈", "Entrepreneurship 🚀",  "Netflix"
-```
+    💬 Ask me about Next.js, Javascript, React
 
-<!-- - 🌱 I’m currently learning **MERN** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    📫 How to reach me nehaprasad27118@gmail.com
 
--  How to reach me **nehaprasad27118@gmail.com**-->
+    😄 Pronouns: she/her
+
+Open To Collaborate on Open Source Projects!
+
+
 
 
 ## 🌐 Connect with me:

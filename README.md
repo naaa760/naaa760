@@ -14,8 +14,6 @@
 
 PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
 
-A passionate developer from India
-
    
 
     🌱 I’m currently learning MERN

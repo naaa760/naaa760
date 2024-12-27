@@ -20,7 +20,7 @@ PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
 
     💬 Ask me about Next.js, Javascript, React
 
-    📫 How to reach me nehaprasad27118@gmail.com
+    📫 How to reach me: nehaprasad27118@gmail.com
 
     😄 Pronouns: she/her
 

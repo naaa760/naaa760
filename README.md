@@ -24,6 +24,11 @@ PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
 
     😄 Pronouns: she/her
 
+    Frontend: TypeScript, JavaScript, React, TailwindCSS, Shadcn
+    Backend: Node.js, tRPC, Next.js
+    Database: MongoDB, PostgreSQL, Supabase
+    Others: Docker, Prisma, Ubuntu, JWT, Vercel, AWS
+
 Open To Collaborate on Open Source Projects!
 
 

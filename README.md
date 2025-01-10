@@ -30,7 +30,7 @@ PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
     
     - Database: MongoDB, PostgreSQL, Supabase
     
-    - Others: Docker, Prisma, Ubuntu, JWT, Vercel, AWS
+    - Others: Docker, Prisma, Ubuntu, JWT, Vercel, AWS, Python
     
 
 Open To Collaborate on Open Source Projects!

@@ -26,9 +26,9 @@ PORTFOLIO: https://portfolio-nehaa-vdff.vercel.app/
 
     - Frontend: Next.js, JavaScript, React, TypeScript, TailwindCSS, Astro, Shadcn, Framer Motion
     
-    - Backend: Node.js, tRPC, CI/CD, Redis
+    - Backend: Node.js, tRPC, CI/CD
     
-    - Database: MongoDB, PostgreSQL, Supabase
+    - Database: MongoDB, PostgreSQL, Supabase, Redis
     
     - Others: Docker, Prisma, Ubuntu, JWT, Vercel, AWS, Python, LLM with RAG
     

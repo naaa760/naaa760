@@ -30,7 +30,7 @@ PORTFOLIO: https://portfolio-nehaa-63y2.vercel.app/
     
     - Database: MongoDB, PostgreSQL, Supabase, Redis
     
-    - Others: Docker, Prisma, Ubuntu, JWT, Vercel, AWS, Python, LLM with RAG
+    - Others: Docker,Streamlit, Prisma, Ubuntu, JWT, Vercel, AWS, Python, LLM with RAG
     
 
 Open To Collaborate on Open Source Projects!

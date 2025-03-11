@@ -12,7 +12,7 @@
 </em></p>
 
 
-PORTFOLIO: https://portfolio-nehaa-jade.vercel.app/
+PORTFOLIO: https://project-01-sable.vercel.app/
 
    
 

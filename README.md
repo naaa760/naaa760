@@ -12,8 +12,7 @@
 </em></p>
 
 
-PORTFOLIO: https://project-01-sable.vercel.app/
-
+PORTFOLIO: https://my-portfolio-tn2q.vercel.app/
    
 
     🌱 I’m currently learning MERN

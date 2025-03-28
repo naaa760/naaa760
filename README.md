@@ -23,9 +23,9 @@ PORTFOLIO: https://my-portfoliooo-l1qt.vercel.app/
 
     😄 Pronouns: she/her
 
-    - Frontend: Next.js, JavaScript, React, TypeScript, TailwindCSS, Astro, Shadcn, Framer Motion
+    - Frontend: Next.js, JavaScript, React, TypeScript, TailwindCSS, Shadcn, Framer Motion
     
-    - Backend: Node.js, tRPC, CI/CD
+    - Backend: Node.js, tRPC, CI/CD, Jest
     
     - Database: MongoDB, PostgreSQL, Supabase, Redis
     

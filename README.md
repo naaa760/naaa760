@@ -29,7 +29,7 @@ PORTFOLIO: https://my-portfoliooo-l1qt.vercel.app/
     
     - Database: MongoDB, PostgreSQL, Supabase, Redis
     
-    - Others: Docker,Streamlit, Prisma, Ubuntu, JWT, Vercel, AWS, Python, LLM with RAG
+    - Others: Docker,Streamlit, Prisma, Ubuntu, JWT, Vercel, AWS, Python, LLM with RAG , LLaMA, BERT
     
 
 Open To Collaborate on Open Source Projects!

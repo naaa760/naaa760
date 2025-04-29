@@ -1,1 +1,1 @@
-## Hey! I'm Neha Prasad. ![Animation - 1745889944289](https://github.com/user-attachments/assets/f67b1956-4d47-4743-a5de-5c6ebc78777b)
+## Hey! I'm Neha Prasad. <img src="https://github.com/user-attachments/assets/f67b1956-4d47-4743-a5de-5c6ebc78777b" alt="Animation - 1745889944289" width="100" />

@@ -23,10 +23,10 @@ https://my-portfoliooo-l1qt.vercel.app/
 
 
 <br/>
-- Languages: JavaScript, TypeScript, Python, HTML/CSS
+✨ Languages: JavaScript, TypeScript, Python, HTML/CSS
 <br/>
 <br/>
-- Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
+✨ Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
 <br/>
 <br/>
-- Tools, Cloud & Databases: AWS, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, CI/CD, Cypress
+✨ Tools, Cloud & Databases: AWS, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, CI/CD, Cypress, REST APIs

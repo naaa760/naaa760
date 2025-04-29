@@ -1,16 +1,6 @@
 ## Hey! I'm Neha Prasad. <img src="https://github.com/user-attachments/assets/f67b1956-4d47-4743-a5de-5c6ebc78777b" alt="Animation" style="width: 30px; height: 30px;" />
 
-<p>
-  <a href="https://www.linkedin.com/in/neha-prasad-92499821b/" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <button style="background-color: #0A66C2; color: white; border: none; padding: 8px 16px; margin-right: 10px; border-radius: 20px; font-size: 14px; cursor: pointer;">
-      Neha Prasad
-    </button>
-  </a>
+<a href="https://linkedin.com/in/ayush-jangra-9992a82a3" rel="nofollow">
+<img src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="max-width: 100%;">
 
-  <a href="https://x.com/nehaaaa_6" target="_blank" rel="nofollow" style="text-decoration: none;">
-    <button style="background-color: white; color: black; border: 1px solid #ccc; padding: 8px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/X_logo_2023.svg" alt="X Logo" width="16" height="16" style="margin-right: 8px;">
-      Follow @nehaaaa_6
-    </button>
-  </a>
-</p>
+</a>

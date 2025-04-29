@@ -1,2 +1,1 @@
-## Hey! I'm Neha Prasad. ![image](https://github.com/user-attachments/assets/fbf03d93-fe07-45b7-a035-568453c643f3)
-
+## Hey! I'm Neha Prasad. ![Animation - 1745889944289](https://github.com/user-attachments/assets/f67b1956-4d47-4743-a5de-5c6ebc78777b)

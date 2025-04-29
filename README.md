@@ -14,4 +14,10 @@
 <br/>
 
 
-I am a software engineer and I develop software, build technical communities, create content and love meeting new people!
+I am a software engineer who develops software, builds technical communities, creates content, and loves meeting new people!
+
+
+🍃
+Languages: JavaScript, TypeScript, Python, HTML/CSS
+Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
+Tools, Cloud & Databases: AWS, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, CI/CD

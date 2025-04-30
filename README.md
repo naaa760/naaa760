@@ -29,4 +29,4 @@ https://my-portfoliooo-l1qt.vercel.app/
 ✨ Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
 <br/>
 <br/>
-✨ Tools, Cloud & Databases: AWS, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, CI/CD, Cypress, REST APIs
+✨ Tools, Cloud & Databases: AWS, Git, SQLite, XML, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs

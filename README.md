@@ -18,8 +18,7 @@ I am a software engineer who develops software, builds technical communities, cr
 
 
 🍃
-
-https://my-portfoliooo-l1qt.vercel.app/
+https://neha-portfolio-liart.vercel.app/
 
 
 <br/>

@@ -26,10 +26,10 @@ https://neha-portfolio-liart.vercel.app/
 
 
 <br/>
-✨ Languages: JavaScript, TypeScript, Python, HTML/CSS
+✨ Languages: JavaScript, TypeScript, Python, HTML/CSS, Redux
 <br/>
 <br/>
 ✨ Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
 <br/>
 <br/>
-✨ Tools, Cloud & Databases: AWS, Git, SQLite, XML, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs
+✨ Tools, Cloud & Databases: AWS, Vercel, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs, Neon, Supbase

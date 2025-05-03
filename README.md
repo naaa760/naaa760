@@ -20,6 +20,10 @@ I am a software engineer who develops software, builds technical communities, cr
 🍃
 https://neha-portfolio-liart.vercel.app/
 
+## What I do
+
+🎯✨ Build scalable, high-performance web applications 🔄 Design and implement microservices architectures 🚀 Optimize application performance and user experience 👥 Mentor junior developers 🔧 Create robust CI/CD pipelines for seamless deployments
+
 
 <br/>
 ✨ Languages: JavaScript, TypeScript, Python, HTML/CSS

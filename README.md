@@ -13,9 +13,6 @@
 📧 Email: nehaprasad27118@gmail.com
 </a>
 
-<br/>
-<br/>
-
 
 I am a software engineer who develops software, builds technical communities, creates content, and loves meeting new people!
 

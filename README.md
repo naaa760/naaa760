@@ -8,12 +8,6 @@
 <a href="https://x.com/nehaaaa_6" rel="nofollow">
 <img src="https://camo.githubusercontent.com/5dbd2f21f8806cf3ceacd4d92800f7bcb449757006a16ee64309fed01c4b7668/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d626c61636b2e7376673f6c6f676f3d58266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="max-width: 100%;">
 
-<br/>
-<br/>
-- I am a software engineer who develops software, builds technical communities, creates content, and loves meeting new people!
-
-
-https://neha-portfolio-liart.vercel.app/
 
 ## What I do
 <br/>

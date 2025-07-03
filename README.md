@@ -10,12 +10,11 @@
 
 
 ## What I do
+https://neha-portfolio-liart.vercel.app/
 <br/>
 <br/>
-
 - I am a software engineer who develops software, builds technical communities, creates content, and loves meeting new people!
 
-https://neha-portfolio-liart.vercel.app/
 
 <br/>
 <br/>

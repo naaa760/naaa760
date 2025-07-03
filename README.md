@@ -21,7 +21,6 @@ I am a software engineer who develops software, builds technical communities, cr
 https://neha-portfolio-liart.vercel.app/
 
 ## What I do
-
 - Build scalable, high-performance web applications Design and implement microservices architectures
 <br/>
 <br/>

@@ -22,14 +22,14 @@ https://neha-portfolio-liart.vercel.app/
 
 ## What I do
 
-🎯✨ Build scalable, high-performance web applications 🔄 Design and implement microservices architectures 🚀 Optimize application performance and user experience 👥 Mentor junior developers 🔧 Create robust CI/CD pipelines for seamless deployments
+> Build scalable, high-performance web applications 🔄 Design and implement microservices architectures 🚀 Optimize application performance and user experience 👥 Mentor junior developers 🔧 Create robust CI/CD pipelines for seamless deployments
 
 
 <br/>
-✨ Languages: JavaScript, TypeScript, Python, HTML/CSS, Redux
+> Languages: JavaScript, TypeScript, Python, HTML/CSS, Redux
 <br/>
 <br/>
-✨ Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
+> Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
 <br/>
 <br/>
-✨ Tools, Cloud & Databases: AWS, Vercel, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs, Neon, Supbase
+> Tools, Cloud & Databases: AWS, Vercel, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs, Neon, Supbase

@@ -23,7 +23,11 @@ https://neha-portfolio-liart.vercel.app/
 ## What I do
 
 > Build scalable, high-performance web applications Design and implement microservices architectures
+<br/>
+<br/>
 > Optimize application performance and user experience Mentor junior developers.
+<br/>
+<br/>
 > Create robust CI/CD pipelines for seamless deployments
 
 

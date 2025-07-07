@@ -15,10 +15,10 @@ https://neha-portfolio-liart.vercel.app/
 <br/>
 - I am a software engineer who develops software, builds technical communities, creates content, and loves meeting new people!
 <br/>
-- Build scalable, high-performance web applications Design and implement microservices architectures
+- Build scalable, high-performance web applications. Design and implement microservices architectures
 <br/>
 <br/>
-- Optimize application performance and user experience Mentor junior developers.
+- Optimize application performance and user experience. Mentor junior developers.
 <br/>
 <br/>
 - Create robust CI/CD pipelines for seamless deployments
@@ -28,7 +28,7 @@ https://neha-portfolio-liart.vercel.app/
 - Languages: JavaScript, TypeScript, Python, HTML/CSS, Redux
 <br/>
 <br/>
-- Frameworks & Libraries: Next.js, React-Native, React.js, Express.js, Node.js
+- Frameworks & Libraries: Next.js, React.js, Express.js, Node.js
 <br/>
 <br/>
-- Tools, Cloud & Databases: AWS, Vercel, Git, SQLite, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, jQuery CI/CD, Cypress, REST APIs, Neon, Supbase
+- Tools, Cloud & Databases: AWS, Vercel, Git, Docker, MongoDB, Firebase, LLM, Prisma, Shadcn UI, CI/CD, Cypress, REST APIs, Neon, Supabase

@@ -3,6 +3,12 @@
 
 ---
 
+## Featured Project
+
+> **Personal Portfolio**
+
+•  [Live Demo](https://neha-portfolio-liart.vercel.app/)
+
 ## About Me
 
 I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript**. I love building scalable web applications, creating vibrant technical communities, and sharing knowledge through content.
@@ -21,14 +27,6 @@ I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend
 | Next.js · React · TypeScript | Node.js · Express.js | MongoDB · PostgreSQL    | Git · Docker · CI/CD       |
 | HTML · CSS · Tailwind CSS    | Python               | Firebase · AWS · Vercel | Redux · shadcn UI · Prisma |
 
-
-## Featured Project
-
-> **Personal Portfolio**
->
-> A modern, responsive portfolio website showcasing my work, blog posts, and open-source contributions.
-
- [Live Demo](https://neha-portfolio-liart.vercel.app/) • [Source Code](https://github.com/naaa760)
 
 
 ## Contact Me

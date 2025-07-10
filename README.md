@@ -33,9 +33,9 @@ I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend
 
 ## Contact Me
 
-* Email: [nehaprasad27118@gmail.com](nehaprasad27118@gmail.com)
 * LinkedIn: [linkedin.com/in/neha-prasad](https://www.linkedin.com/in/neha-prasad-92499821b/)
 * Twitter: [@naaa760](https://x.com/nehaaaa_6)
+* * Email: [nehaprasad27118@gmail.com](nehaprasad27118@gmail.com)
 
 Feel free to connect, collaborate, or ask any questions!
 

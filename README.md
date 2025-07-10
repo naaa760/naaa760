@@ -1,6 +1,5 @@
 # Hi there, I'm Neha Prasad 👋
 
-![Portfolio Screenshot](https://neha-portfolio-liart.vercel.app/og-image.png)
 
 ---
 

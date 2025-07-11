@@ -38,4 +38,5 @@ I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend
 Feel free to connect, collaborate, or ask any questions!
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 > and one more thing Communication is key to achieving your life goals.

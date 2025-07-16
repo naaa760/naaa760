@@ -2,7 +2,6 @@
 
 Below is a list of repositories where I've opened pull requests. Click each link to view the PRs I've authored in that repo.
 
-> **Replace `YOUR_USERNAME` with your actual GitHub username** in the URLs below.
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22312)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22456)
 - [PostHog/posthog](https://github.com/PostHog/posthog/pull/34946)
@@ -21,10 +20,3 @@ Below is a list of repositories where I've opened pull requests. Click each link
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui/pull/7838)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty/pull/13248)
 - [mattermost/mattermost](https://github.com/mattermost/mattermost/pull/33442)
-
-
-*---*
-
-> **Tips**:  
-> - You can customize each link to point directly at a specific PR by replacing the URL with the exact PR URL.  
-> - Add badges (✅/⏳/❌) if you want to show status at a glance.

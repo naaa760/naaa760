@@ -9,9 +9,12 @@
 
 > **Contact me**
 
-- **LinkedIn:** [linkedin.com/in/neha-prasad](https://www.linkedin.com/in/neha-prasad-92499821b/)
-- **Twitter:** [@naaa760](https://x.com/nehaaaa_6)
-- **Email:** [nehaprasad27118@gmail.com](mailto:nehaprasad27118@gmail.com)
+<p style="font-size: 14px;">
+• <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">linkedin.com/in/neha-prasad</a><br>
+• <strong>Twitter:</strong> <a href="https://x.com/nehaaaa_6">@naaa760</a><br>
+• <strong>Email:</strong> <a href="mailto:nehaprasad27118@gmail.com">nehaprasad27118@gmail.com</a>
+</p>
+
 
 ### About Me
 

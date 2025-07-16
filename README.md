@@ -18,12 +18,12 @@
 
 ### About Me
 
-I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript**. I love building scalable web applications, creating vibrant technical communities, and sharing knowledge through content.✨
+I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript**. I love building scalable web applications, creating vibrant technical communities, and sharing knowledge through content. ✨
 
 *  I’m currently contributing to open-source projects.
 *  I’m constantly learning about **AI/ML**, **Cloud Infrastructure**, and **CI/CD** best practices.
 *  Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**, **LLM** or **Docker**.
-*  Fun fact: I love to play badminton, dancing and swimming and always have one curled up next to my laptop!❄️
+*  Fun fact: I love to play badminton, dancing and swimming and always have one curled up next to my laptop! ❄️
 
 ---
 

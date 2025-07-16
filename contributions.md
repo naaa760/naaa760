@@ -1,4 +1,4 @@
-# 🚀 Open Source Contributions
+# ✨ Open Source Contributions
 
 Below is a list of repositories where I've opened pull requests. Click each link to view the PRs I've authored in that repo.
 

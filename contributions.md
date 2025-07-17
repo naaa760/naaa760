@@ -3,6 +3,7 @@
 Below is a list of repositories where I've opened pull requests. Click each link to view the PRs I've authored in that repo.
 
 - [PostHog/posthog](https://github.com/PostHog/posthog/pull/34946)
+- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22312)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22456)
 - [PostHog/posthog](https://github.com/PostHog/posthog/pull/34955)
@@ -15,7 +16,6 @@ Below is a list of repositories where I've opened pull requests. Click each link
 - [supabase/supabase](https://github.com/supabase/supabase/pull/37070)
 - [QwikDev/qwik](https://github.com/QwikDev/qwik/pull/7725)
 - [devrev/mcp-server](https://github.com/devrev/mcp-server/pull/32)
-- [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [vercel/ai](https://github.com/vercel/ai/pull/7342)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui/pull/7838)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty/pull/13248)

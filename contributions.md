@@ -7,6 +7,7 @@ Below is a list of repositories where I've opened pull requests. Click each link
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22312)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22456)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/pull/4375)
 - [PostHog/posthog](https://github.com/PostHog/posthog/pull/34955)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/pull/4874)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe/pull/1838)

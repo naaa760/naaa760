@@ -3,6 +3,7 @@
 Below is a list of repositories where I've opened pull requests. Click each link to view the PRs I've authored in that repo.
 
 - [PostHog/posthog](https://github.com/PostHog/posthog/pull/34946)
+- [outline/outline](https://github.com/outline/outline/pull/9742)
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/2106)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22312)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22456)

@@ -1,8 +1,5 @@
 ### I'm Neha from India 🇮🇳! Nice to meet you. 👋
 
-
-### Featured Project
-
 > **Personal Portfolio**
 
 • [Live Demo](https://neha-portfolio-liart.vercel.app/)

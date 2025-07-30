@@ -23,7 +23,7 @@ I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Developmen
 
 ---
 
-## Open Source Contributions✨
+### Open Source Contributions✨
 
 [Click here to see all my Open Source Contributions](./contributions.md)
 
@@ -39,5 +39,3 @@ I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Developmen
 Feel free to connect, collaborate, or ask any questions!
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
-> and one more thing Communication is key to achieving your life goals.

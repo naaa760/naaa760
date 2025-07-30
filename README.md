@@ -13,6 +13,12 @@
 </p>
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neha-prasad)
+[![Twitter](https://img.shields.io/badge/Twitter-@naaa760-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/naaa760)
+[![Email](https://img.shields.io/badge/Email-nehaprasad27118@gmail.com-D14836?logo=gmail&style=flat-square)](mailto:nehaprasad27118@gmail.com)
+
+
+
 ### About Me
 
 I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript**✨

@@ -19,7 +19,7 @@ I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Developmen
 
 *  I’m constantly learning about **AI/ML**, **Cloud Infrastructure**, and **CI/CD** best practices.
 *  Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**, **LLM** or **Docker**.
-*  Fun fact: I love first thing sleep and to play badminton and swimming and always have one curled up next to my laptop! ❄️
+*  Fun fact: first thing I love aleeping and then to play badminton and swimming and always have one curled up next to my laptop! ❄️
 
 ---
 

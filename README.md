@@ -27,7 +27,7 @@ I’m Neha Prasad, a passionate **Software Engineer** specializing in **Frontend
 
 ---
 
-## 📂✨ Open Source Contributions
+## Open Source Contributions✨
 
 [Click here to see all my Open Source Contributions](./contributions.md)
 

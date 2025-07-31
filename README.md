@@ -34,7 +34,4 @@ I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Developmen
 | HTML · CSS · Tailwind CSS    | Python               | Firebase · AWS · Vercel | Redux · shadcn UI · Prisma |
 
 
-
-Feel free to connect, collaborate, or ask any questions!
-
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House

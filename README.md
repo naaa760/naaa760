@@ -14,7 +14,7 @@
 
 ### About Me
 
-I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript** with with 3 years✨
+I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Development** with **Next.js** and **TypeScript** with 3 years✨
 
 *  I’m constantly learning about **AI/ML**, **Cloud Infrastructure**, and **CI/CD** best practices.
 *  Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**, **LLM** or **Docker**.

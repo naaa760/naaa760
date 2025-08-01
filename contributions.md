@@ -1,4 +1,4 @@
-### ✨ Here are some of my merged pull requests in OPEN SOURCE CONTRIBUTIONS
+### ✨ My Merged pull requests in OPEN SOURCE CONTRIBUTIONS
 
 Below is a list of repositories where I've opened pull requests. Click each link to view the PRs I've authored in that repo.
 

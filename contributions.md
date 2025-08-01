@@ -7,6 +7,7 @@ Below is a list of repositories where I've opened pull requests. Click each link
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/pull/4220)
 - [outline/outline](https://github.com/outline/outline/pull/9742)
 - [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS/pull/2106)
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT/pull/1900)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22312)
 - [calcom/cal.com](https://github.com/calcom/cal.com/pull/22456)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli/pull/4375)

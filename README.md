@@ -7,9 +7,9 @@
 > **Contact me**
 
 <p style="font-size: 10px;">
-• <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">linkedin</a><br>
-• <a href="https://x.com/nehaaaa_6">twitter</a><br>
-• <a href="mailto:nehaprasad27118@gmail.com">nehaprasad27118@gmail.com</a>
+• <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">Linkedin</a><br>
+• <a href="https://x.com/nehaaaa_6">Twitter</a><br>
+• <a href="mailto:nehaprasad27118@gmail.com">Email</a>
 </p>
 
 ### About Me

@@ -23,7 +23,7 @@ I’m Neha Prasad, a **Software Engineer** specializing in **Frontend Developmen
 
 ---
 
-### Here are some of my merged pull requests in OSS ✨
+## ✨ Here are some of my merged pull requests in OSS ✨
 
 [Click here to see all my Open Source Contributions](./contributions.md)
 

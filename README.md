@@ -1,4 +1,4 @@
-                                                          ## I'm Neha Prasad!
+                                                              I'm Neha Prasad!
 ### Nice to meet you. 👋
 
 > **Personal Portfolio**

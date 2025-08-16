@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Neha Prasad! </h2>
+<h1 align="center">Hi, I'm Neha Prasad! </h1>
 
 ### Nice to meet you. 👋
 

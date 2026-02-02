@@ -1,8 +1,7 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#1f6feb;">Neha Prasad</span>!
+  Hi, I'm <font color="#1f6feb">Neha Prasad</font>!
 </h1>
 
-<p align="center">Nice to meet you 👋</p>
 
 
 

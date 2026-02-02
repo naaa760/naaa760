@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Neha Prasad! </h1>
+<h1 align="center">
+  Hi, I'm <span style="color:#1f6feb;">Neha Prasad</span>!
+</h1>
 
-### Nice to meet you. 👋
+<h3 align="center">Nice to meet you 👋</h3>
+
 
 > **Personal Portfolio**
 

@@ -2,7 +2,7 @@
   Hi, I'm <span style="color:#1f6feb;">Neha Prasad</span>!
 </h1>
 
-<h3 align="center">Nice to meet you 👋</h3>
+<h3>Nice to meet you 👋</h3>
 
 
 
